@@ -1,0 +1,21 @@
+# Site settings
+title: Coding Unscrambled
+header-img: img/home-bg.png
+email: drfburk@gmail.com
+copyright_name: BabyValentine214
+description: > # this means to ignore newlines until "baseurl:"
+  Demystifying The Universe Of Programming
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: debspecs
+github_username:  BabyValentine214
+learn_profile: BabyValentine214
+email_username: drfburk@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
