@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Explainig Page Layout To My Mom"
+title:  "Explaining Page Layout To My Mom"
 date:   2017-03-13 22:57:36 -0400
 ---
 
